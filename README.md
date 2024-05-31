@@ -1,4 +1,4 @@
-### I'm presently learning Web development and I will get an internship position after 3 months of comletion. 👋
+### 
 
 <!--
 **jigitaremi/jigitaremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
